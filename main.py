@@ -1,7 +1,7 @@
 import random
 
 MAX_LINES = 3
-MAX_BET = 100
+MAX_BET = 250
 MIN_BET = 1
 
 REEL_SYMBOLS = 3
